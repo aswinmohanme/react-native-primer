@@ -25,7 +25,7 @@ At the end of this course you would have built a plethora of Mobile Apps with Re
 
 ## Disclaimer
 
-This is a work in progress, and the Book is Open Source. Pull Requests Welcome :D
+This is a work in progress, and the Book is [Open Source](https://github.com/aswinmohanme/react-native-primer). Pull Requests Welcome :D 
 
 ## 
 
