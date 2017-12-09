@@ -22,13 +22,13 @@ React walks through every rendered component on  the screen and finds out which 
 
 ## React Native
 
-React revolutionized the way web application were being built. It bought never before performance to the web world, and broke away from the conventional MVC model that was plaguing Web Application development. It was like the new kid in the block who bought with him new ideas and new fashion to the hood. 
+React revolutionized the way web application were being built. It bought never before performance to the web world, and broke away from the conventional MVC model that was plaguing Web Application development. It was like the new kid in the block who bought with him new ideas and new fashion to the hood.
 
-But the Mobile landscape was a different story. 
+But the Mobile landscape was a different story.
 
 ### Native Curse
 
-Unlike the web where a single code-base can run happily on any supported web browser, you had to have seprate codebases for each platform. Each platform \(namely Android and IOS\*\) had very different programming languages,  seprate developer toolings and seprate librariers. The two codebases even though implementing the same functionalily looked like they were from different species. 
+Unlike the web where a single code-base can run happily on any supported web browser, you had to have seprate codebases for each platform. Each platform \(namely Android and IOS\*\) had very different programming languages,  seprate developer toolings and seprate librariers. The two codebases even though implementing the same functionalily looked like they were from different species.
 
 Each function had to be implemented in both platforms in two different languages which lead to the different bugs that slowed down feature additions in large applications. These problems lead to the development of CPMAD.
 
@@ -50,9 +50,7 @@ A React Native app is basically a Native App and you get Cross Platform for free
 
 It's often said that for React Native we actually need to learn React first. Well for this guide I chose not to put React as a prerequisite, Reac t and React Native are not so different and we can pick up React along the way.
 
-
-
-> \\*  Nop Windows  Phone doesn't count here.
+> \*  Nop Windows  Phone doesn't count here.
 
 
 
