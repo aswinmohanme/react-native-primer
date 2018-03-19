@@ -1,6 +1,6 @@
 # React Native Primer
 
-A short and sweet \(FOSS\) intro to [React Native,](https://facebook.github.io/react-native/ "Link to Official Docs") the awesome cross-platform mobile app development framework from Facebook.
+A short and sweet \(FOSS, WIP\) intro to [React Native,](https://facebook.github.io/react-native/ "Link to Official Docs") the awesome cross-platform mobile app development framework from Facebook.
 
 This books is intended for beginners who are new to native Mobile Development, React and even Javascript. The only requirement is that you know how to program in any one language and have access to a computer \(obviously\).
 
