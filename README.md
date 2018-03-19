@@ -28,5 +28,5 @@ Read the book offline
 
 ### Contributing
 
-The book is open source and free \(always will be\). All Contributions are welcome, let's make the defacto guide to React Native.
+The book is open source and free \(always will be\). All Contributions are welcome, let's together make the defacto guide to React Native.
 
