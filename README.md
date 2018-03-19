@@ -16,11 +16,11 @@ The book follows a project based approach, every concept is introduced in the co
 
 ### Author
 
-Hey I'm [Aswin Mohan](http://aswinmohan.me/) &lt;3 and this is my first book.
+Hey I'm [Aswin Mohan](http://aswinmohan.me/), come say hi :D
 
 ### Offline
 
-Thanks to gitbook everything can be read offline for your pleasure
+Read the book offline
 
 * [PDF](https://www.gitbook.com/download/pdf/book/aswinmohanme/react-native-primer)
 * [EPUB](https://www.gitbook.com/download/epub/book/aswinmohanme/react-native-primer)
