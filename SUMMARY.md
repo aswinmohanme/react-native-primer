@@ -33,7 +33,10 @@
 
 * Todo List
 
+### So Meta
 
+* Why this Book
+* Contributing
 
 
 
