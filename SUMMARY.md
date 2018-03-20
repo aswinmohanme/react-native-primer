@@ -6,7 +6,7 @@
 
 ## React to Love
 
-* Javascript Land
+* [Javascript Land](react-to-love/javascript-land.md)
 * React Land
 * Why React
 * Why React Native
