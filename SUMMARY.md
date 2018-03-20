@@ -1,42 +1,40 @@
 # Summary
 
-### Introduction
+## Introduction
 
 * [Introduction](README.md)
-* Why React
-* Why React Native
 
-### React to Love
+## React to Love
 
 * Javascript Land
 * React Land
+* Why React
+* Why React Native
 
-### Hello Native
+## Hello Native
 
 * Hello Native
 * Setting Up
 * Really Hello React Native
 
-### Calculate Everything
+## Calculate Everything
 
 * Calculator
 
-### React Tac Toe
+## React Tac Toe
 
 * Tic Tac Toe
 
-### Hey NASA
+## Hey NASA
 
 * APOD
 
-### Todo Like Hell
+## Todo Like Hell
 
 * Todo List
 
-### So Meta
+## So Meta
 
 * Why this Book
 * Contributing
-
-
 
