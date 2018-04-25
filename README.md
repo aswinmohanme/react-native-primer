@@ -8,7 +8,7 @@ This books is intended for beginners who are new to native Mobile Development, R
 
 * Learn how to navigate safely through  the Javascript forest
 * Learn how to React
-* Learn how to Reacy Natively ;D
+* Learn how to React Natively ;D
 * Convert any idea you have to a working, polished mobile app
 * How to Google correctly and get unstuck on your own
 
